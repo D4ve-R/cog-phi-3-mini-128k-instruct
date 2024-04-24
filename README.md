@@ -1,6 +1,6 @@
 # Phi-3 mini 128k instruct COG container
 
-This is the repository for [microsoft/Phi-3-mini-128k-instruct](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct). 
+This is the container for [microsoft/Phi-3-mini-128k-instruct](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct). 
 
 ## [Check it out on replicate](https://replicate.com/d4ve-r/phi-3-mini-128k-instruct)
 
